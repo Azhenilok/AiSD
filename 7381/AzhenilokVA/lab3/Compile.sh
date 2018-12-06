@@ -1,0 +1,1 @@
+gcc Source/main.c -o main
